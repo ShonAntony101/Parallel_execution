@@ -38,24 +38,24 @@ DEVICES = [
             f"v0/{APITOKEN}/wd/hub"
         ),
     },
-    # {
-    #     "name": "SAMSUNG Galaxy S20 FE",
-    #     "device_id": "RZ8NC0VQ79X",
-    #     "device_name": "SAMSUNG Galaxy S20 FE",
-    #     "appium_url": (
-    #         f"https://dev-gb-lhr-3.headspin.io:7007/"
-    #         f"v0/{APITOKEN}/wd/hub"
-    #     ),
-    # },
     {
-        "name": "XIAOMI Note 9S",
-        "device_id": "ae4f0acd",
-        "device_name": "XIAOMI Note 9S",
+        "name": "SAMSUNG Galaxy S20 FE",
+        "device_id": "RZ8NC0VQ79X",
+        "device_name": "SAMSUNG Galaxy S20 FE",
         "appium_url": (
-            f"https://dev-gb-lhr-2.headspin.io:7048/"
+            f"https://dev-gb-lhr-3.headspin.io:7007/"
             f"v0/{APITOKEN}/wd/hub"
         ),
     },
+    # {
+    #     "name": "XIAOMI Note 9S",
+    #     "device_id": "ae4f0acd",
+    #     "device_name": "XIAOMI Note 9S",
+    #     "appium_url": (
+    #         f"https://dev-gb-lhr-2.headspin.io:7048/"
+    #         f"v0/{APITOKEN}/wd/hub"
+    #     ),
+    # },
 ]
 
 
